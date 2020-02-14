@@ -32,7 +32,7 @@ Add following code in appsettings.json file, update appsettings.json file with y
 * Add DLLs as per requirements to implementation of sport game, DLL for SportData and SportData.Utils are mendatory and other dll you can choose as per sport you want to implement, Regarding sport game implementation, you need to import two DLL for e.g if you want to implement CS:GO than you need to import SportData.CSGO.dll, and SportData.CSGO.Entities.dll
 * all dll found in packages/ESportAPI
 * below is CS:GO and LOL Integration example.
-* 
+
 **CS:GO Integration**
 This is the documentation for SportsDataIO's CS:GO API Integration. 
 now check below example which show how to create request to get area(Countries)
