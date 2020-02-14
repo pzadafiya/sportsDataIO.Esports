@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="SportData">
+      <HintPath>..\..\SportData\bin\Debug\netcoreapp3.1\SportData.dll</HintPath>
+    </Reference>
+    <Reference Include="SportData.LOL.Entities">
+      <HintPath>..\SportData.LOL.Entities\bin\Debug\netcoreapp3.1\SportData.LOL.Entities.dll</HintPath>
+    </Reference>
+    <Reference Include="SportData.Utils">
+      <HintPath>..\..\SportData.Utils\bin\Debug\netcoreapp3.1\SportData.Utils.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
